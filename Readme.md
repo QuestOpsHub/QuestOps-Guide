@@ -1,16 +1,15 @@
 # QuestOpsHub-Guide
 
-Welcome to **QuestOps-Guide**! 🚀 This repository serves as the central hub for navigating and utilizing the QuestOps ecosystem. Here, you'll find essential documentation, best practices, and step-by-step guides to explore, contribute to, and integrate with various QuestOps Projects & Repositories.
+Welcome to **QuestOpsHub-Guide**! 🚀 This repository serves as the central hub for navigating and utilizing the QuestOpsHub ecosystem. Here, you'll find essential documentation, best practices, and step-by-step guides to explore, contribute to, and integrate with various QuestOpsHub Projects & Repositories.
 
----
 # ⚙️ Projects & Status
+
+> **Legend:** ✅ Active | 🛠️ In Progress | 🔍 Planning
 
 |                                         🔹 **Project**                                          |                                                                                         📜 **Description**                                                                                          | 🚀 **Status** |
 |:-----------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|
 | [self-hosted-github-runners-aks](https://github.com/QuestOpsHub/self-hosted-github-runners-aks) | This repository enables the deployment and management of self-hosted GitHub runners on Azure Kubernetes Service (AKS), offering a scalable, private, and customizable solution for CI/CD workflows. |   ✅ Active   |
 |                                                                                                 |                                                                                                                                                                                                     |               |
-
-> **Legend:** ✅ Active | 🛠️ In Progress | 🔍 Planning
 
 --- 
 # 🛠️ Terraform Modules for Azure
