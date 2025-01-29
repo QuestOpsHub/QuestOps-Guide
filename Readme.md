@@ -19,7 +19,6 @@ Welcome to **QuestOps-Guide**! 🚀 This repository serves as the central hub fo
 |:-----------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:-------------:|
 | [terraform-azurerm-linux-webapp](https://github.com/QuestOpsHub/terraform-azurerm-linux-webapp) | Terraform module to create a Linux Web App along with a deployment slot and management lock. |   ✅ Active   |
 |                                                                                                 |                                                                                              |               |
-| 
 
 ---
 ## 🤝 How to Contribute
@@ -33,8 +32,6 @@ Thank you for your interest in contributing! 🚀 Follow these steps to get star
 3. **Create a Branch**: Create a new branch for your changes.
 4. **Make Changes**: Implement your changes or fixes while following project guidelines.
 5. **Submit a Pull Request**: Push your changes and open a **Pull Request (PR)** with a clear description.
-
-Please ensure your code follows the project's style and guidelines.
 
 #### ✅ Contribution Guidelines
 
