@@ -2,14 +2,8 @@
 
 Welcome to **QuestOps-Guide**! 🚀 This repository serves as the central hub for navigating and utilizing the QuestOps ecosystem. Here, you'll find essential documentation, best practices, and step-by-step guides to explore, contribute to, and integrate with various QuestOps Projects & Repositories.
 
-# Table of Contents
-
-- [⚙️ Projects & Status](#️projects-status)
-- [🛠️ Terraform Modules for Azure](#️terraform-modules-for-azure)
-- [🤝 How to Contribute](#how-to-contribute)
-
 ---
-## ⚙️ Projects & Status
+# ⚙️ Projects & Status
 
 |                                         🔹 **Project**                                          |                                                                                         📜 **Description**                                                                                          | 🚀 **Status** |
 |:-----------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|
@@ -19,7 +13,7 @@ Welcome to **QuestOps-Guide**! 🚀 This repository serves as the central hub fo
 > **Legend:** ✅ Active | 🛠️ In Progress | 🔍 Planning
 
 --- 
-## 🛠️ Terraform Modules for Azure
+# 🛠️ Terraform Modules for Azure
 
 |                                        🔹 **Repository**                                        |                                      📜 **Description**                                      | 🚀 **Status** |
 |:-----------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:-------------:|
@@ -27,11 +21,11 @@ Welcome to **QuestOps-Guide**! 🚀 This repository serves as the central hub fo
 |                                                                                                 |                                                                                              |               |
 
 ---
-## 🤝 How to Contribute
+# 🤝 How to Contribute
 
 Thank you for your interest in contributing! 🚀 Follow these steps to get started:
 
-#### 📝 Contribution Steps
+### 📝 Contribution Steps
 
 1. **Fork the Repository**: Create a fork of this project to your GitHub account.
 2. **Clone the Repository**: Clone your fork to your local machine.
@@ -39,13 +33,13 @@ Thank you for your interest in contributing! 🚀 Follow these steps to get star
 4. **Make Changes**: Implement your changes or fixes while following project guidelines.
 5. **Submit a Pull Request**: Push your changes and open a **Pull Request (PR)** with a clear description.
 
-#### ✅ Contribution Guidelines
+### ✅ Contribution Guidelines
 
 - Ensure your code follows the project's **style and best practices**.
 - Write **clear commit messages** that describe your changes.
 - Before submitting a PR, check for **existing issues** to avoid duplication.
 - Be respectful and collaborative in discussions.
 
-#### 📢 Need Help?
+### 📢 Need Help?
 
 If you have any questions, feel free to open an issue or start a discussion. We're happy to help! 😊
