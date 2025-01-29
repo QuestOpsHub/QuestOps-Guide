@@ -14,6 +14,8 @@ Welcome to **QuestOpsHub-Guide**! 🚀 This repository serves as the central hub
 --- 
 # 🛠️ Terraform Modules for Azure
 
+> **Legend:** ✅ Active | 🛠️ In Progress | 🔍 Planning
+
 |                                        🔹 **Repository**                                        |                                      📜 **Description**                                      | 🚀 **Status** |
 |:-----------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:-------------:|
 | [terraform-azurerm-linux-webapp](https://github.com/QuestOpsHub/terraform-azurerm-linux-webapp) | Terraform module to create a Linux Web App along with a deployment slot and management lock. |   ✅ Active   |
