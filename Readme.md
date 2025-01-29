@@ -1,7 +1,13 @@
-# QuestOpsHub-Template
+# QuestOpsHub-Guide
 
 Welcome to **QuestOps-Guide**! 🚀 This repository serves as the central hub for navigating and utilizing the QuestOps ecosystem. Here, you'll find essential documentation, best practices, and step-by-step guides to explore, contribute to, and integrate with various QuestOps Projects & Repositories.
-  
+
+# Table of Contents
+
+- [⚙️ Projects & Status](#️projects-status)
+- [🛠️ Terraform Modules for Azure](#️terraform-modules-for-azure)
+- [🤝 How to Contribute](#how-to-contribute)
+
 ---
 ## ⚙️ Projects & Status
 
