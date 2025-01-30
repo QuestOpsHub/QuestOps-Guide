@@ -4,7 +4,7 @@ Welcome to **QuestOpsHub-Guide**! 🚀 This repository serves as the central hub
 
 # ⚙️ Projects & Status
 
-> **Legend:** ✅ Active | 🛠️ In Progress | 🔍 Planning
+> **Legend:** ✅ Active | 🚧 In Progress | 🔍 Planning
 
 | 🔹 **Project**                                                                                    | 📜 **Description**                                                                                                                                                                                                                                                                                              | 🚀 **Status** |
 | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
@@ -13,25 +13,25 @@ Welcome to **QuestOpsHub-Guide**! 🚀 This repository serves as the central hub
 | [azure-webapp-ci-cd-deployment](https://github.com/QuestOpsHub/azure-webapp-ci-cd-deployment)     | This repository contains the CI/CD pipeline and deployment automation for Azure Web Apps, including integration with Azure Key Vault, Azure Container Registry (ACR), and Managed Identity. It supports deploying ASP.NET Core, Java, Python and other applications to Azure Web Apps securely and efficiently. | 🔍 Planning   |
 |                                                                                                   |                                                                                                                                                                                                                                                                                                                 |               |
 
---- 
 # 🛠️ Terraform Modules for Azure
 
-> **Legend:** ✅ Active | 🛠️ In Progress | 🔍 Planning
+> **Legend:** ✅ Active | 🚧 In Progress | 🔍 Planning
 
-| 🔒 **Resource Type**               | 🔹 **Repository**                                                                                                   | 📜 **Description**                                                                                | 🚀 **Status** |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------- |
-| **Compute**                        | [terraform-azurerm-linux-webapp](https://github.com/QuestOpsHub/terraform-azurerm-linux-webapp)                     | Terraform module to create a Linux Web App along with a deployment slot and management lock.      | ✅ Active     |
-| **Identity and Access Management** | [terraform-azurerm-role-assignment](https://github.com/QuestOpsHub/terraform-azurerm-role-assignment)               | Terraform module to assign a specified Role to a given Principal (User or Group).                 | ✅ Active     |
-| **Identity and Access Management** | [terraform-azurerm-user-assigned-identity](https://github.com/QuestOpsHub/terraform-azurerm-user-assigned-identity) | Terraform module to create a User Assigned Managed Identity.                                      | ✅ Active     |
-| **Kubernetes Services**            | [terraform-azurerm-kubernetes-cluster](https://github.com/QuestOpsHub/terraform-azurerm-kubernetes-cluster)         | Terraform module to create a Managed Kubernetes Cluster.                                          | ✅ Active     |
-| **Kubernetes Services**            | [terraform-kubernetes-namespace](https://github.com/QuestOpsHub/terraform-kubernetes-namespace)                     | Terraform module to create Kubernetes Namespace.                                                  | ✅ Active     |
-| **Kubernetes Services**            | [terraform-helm-release](https://github.com/QuestOpsHub/terraform-helm-release)                                     | A Release is an instance of a chart running in a Kubernetes cluster.                              | ✅ Active     |
-| **Networking**                     | [terraform-azurerm-virtual-network](https://github.com/QuestOpsHub/terraform-azurerm-virtual-network)               | Terraform module to create a Virtual Network and Subnets.                                         | ✅ Active     |
-| **Security**                       | [terraform-azurerm-key-vault](https://github.com/QuestOpsHub/terraform-azurerm-key-vault)                           | Terraform module to create a Key Vault.                                                           | ✅ Active     |
-| **Storage**                        | [terraform-azurerm-container-registry](https://github.com/QuestOpsHub/terraform-azurerm-container-registry)         | Terraform module to create a Container Registry.                                                  | ✅ Active     |
-| **Miscellaneous**                  | [terraform-azurerm-random-string](https://github.com/QuestOpsHub/terraform-azurerm-random-string)                   | Terraform module to generate secure random alphanumeric strings with optional special characters. | ✅ Active     |
-| **Miscellaneous**                  | [terraform-azurerm-resource-group](https://github.com/QuestOpsHub/terraform-azurerm-resource-group)                 | Terraform module to create an Azure Resource Group.                                               | ✅ Active     |
+## Table of Contents
 
+| **Category**                       | **Resource Type**                    | **Repository**                                                                                                      | **Description**                                                                                   | **Status** |
+| ---------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------- |
+| **Compute**                        | **App Service (Web App)**            | [terraform-azurerm-linux-webapp](https://github.com/QuestOpsHub/terraform-azurerm-linux-webapp)                     | Terraform module to create a Linux Web App along with a deployment slot and management lock.      | ✅ Active  |
+| **Identity and Access Management** | **Role-Based Access Control (RBAC)** | [terraform-azurerm-role-assignment](https://github.com/QuestOpsHub/terraform-azurerm-role-assignment)               | Terraform module to assign a specified Role to a given Principal (User or Group).                 | ✅ Active  |
+| **Identity and Access Management** | **Managed Identity**                 | [terraform-azurerm-user-assigned-identity](https://github.com/QuestOpsHub/terraform-azurerm-user-assigned-identity) | Terraform module to create a User Assigned Managed Identity.                                      | ✅ Active  |
+| **Containers**                     | **Azure Kubernetes Service (AKS)**   | [terraform-azurerm-kubernetes-cluster](https://github.com/QuestOpsHub/terraform-azurerm-kubernetes-cluster)         | Terraform module to create a Managed Kubernetes Cluster.                                          | ✅ Active  |
+| **Containers**                     | **Kubernetes Namespace**             | [terraform-kubernetes-namespace](https://github.com/QuestOpsHub/terraform-kubernetes-namespace)                     | Terraform module to create Kubernetes Namespace.                                                  | ✅ Active  |
+| **Containers**                     | **Helm Release**                     | [terraform-helm-release](https://github.com/QuestOpsHub/terraform-helm-release)                                     | A Release is an instance of a chart running in a Kubernetes cluster.                              | ✅ Active  |
+| **Containers**                     | **Container Registry (ACR)**         | [terraform-azurerm-container-registry](https://github.com/QuestOpsHub/terraform-azurerm-container-registry)         | Terraform module to create a Container Registry.                                                  | ✅ Active  |
+| **Networking**                     | **Virtual Network (VNET)**           | [terraform-azurerm-virtual-network](https://github.com/QuestOpsHub/terraform-azurerm-virtual-network)               | Terraform module to create a Virtual Network and Subnets.                                         | ✅ Active  |
+| **Security**                       | **Key Vault**                        | [terraform-azurerm-key-vault](https://github.com/QuestOpsHub/terraform-azurerm-key-vault)                           | Terraform module to create a Key Vault.                                                           | ✅ Active  |
+| **Management and Governance**      | **Resource Group**                   | [terraform-azurerm-resource-group](https://github.com/QuestOpsHub/terraform-azurerm-resource-group)                 | Terraform module to create an Azure Resource Group.                                               | ✅ Active  |
+| **Miscellaneous**                  | **Random String**                    | [terraform-azurerm-random-string](https://github.com/QuestOpsHub/terraform-azurerm-random-string)                   | Terraform module to generate secure random alphanumeric strings with optional special characters. | ✅ Active  |
 
 ---
 # 🤝 How to Contribute
