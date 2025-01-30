@@ -13,7 +13,7 @@ This repository serves as the central hub for navigating and utilizing the Quest
 | [azure-webapp-ci-cd-deployment](https://github.com/QuestOpsHub/azure-webapp-ci-cd-deployment)     | This repository contains the CI/CD pipeline and deployment automation for Azure Web Apps, including integration with Azure Key Vault, Azure Container Registry (ACR), and Managed Identity. It supports deploying ASP.NET Core, Java, Python and other applications to Azure Web Apps securely and efficiently. | 🔍 Planning   |
 |                                                                                                   |                                                                                                                                                                                                                                                                                                                 |               |
 
-#  𝑻𝒆𝒓𝒓𝒂𝒇𝒐𝒓𝒎 𝑴𝒐𝒅𝒖𝒍𝒆𝒔 𝒇𝒐𝒓 𝑨𝒛𝒖𝒓𝒆
+# 🛠️ 𝑻𝒆𝒓𝒓𝒂𝒇𝒐𝒓𝒎 𝑴𝒐𝒅𝒖𝒍𝒆𝒔 𝒇𝒐𝒓 𝑨𝒛𝒖𝒓𝒆
 
 > **Legend:** ✅ Active | 🚧 In Progress | 🔍 Planning
 
