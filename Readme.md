@@ -1,6 +1,6 @@
 # 🌟 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝑸𝒖𝒆𝒔𝒕𝑶𝒑𝒔𝑯𝒖𝒃-𝑮𝒖𝒊𝒅𝒆!
 
-This repository serves as the central hub for navigating and utilizing the QuestOpsHub ecosystem. Here, you'll find essential documentation, best practices, and step-by-step guides to explore, contribute to, and integrate with various QuestOpsHub Projects & Repositories.
+This repository serves as the central hub for navigating and utilizing the **QuestOpsHub** ecosystem. Here, you'll find essential documentation, best practices, and step-by-step guides to explore, contribute to, and integrate with various QuestOpsHub Projects & Repositories.
 
 # ⚙️ 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝑺𝒕𝒂𝒕𝒖𝒔 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘
 
@@ -13,12 +13,9 @@ This repository serves as the central hub for navigating and utilizing the Quest
 |   [azure-webapp-ci-cd-deployment](https://github.com/QuestOpsHub/azure-webapp-ci-cd-deployment)   | This repository contains the CI/CD pipeline and deployment automation for Azure Web Apps, including integration with Azure Key Vault, Azure Container Registry (ACR), and Managed Identity. It supports deploying ASP.NET Core, Java, Python, and other applications to Azure Web Apps securely and efficiently. |                                                                                             |      🚧       |
 |                                                                                                   |                                                                                                                                                                                                                                                                                                                  |                                                                                             |               |
 
-
 # 🌐 𝑨𝒛𝒖𝒓𝒆 𝑻𝒆𝒓𝒓𝒂𝒇𝒐𝒓𝒎 𝑴𝒐𝒅𝒖𝒍𝒆𝒔
 
 > **Legend:** ✅ Active | 🚧 In Progress | 🔍 Planning
-
-## Table of Contents
 
 |           **Category**           |                                                   **Repository**                                                    |                                          **Description**                                          | **Status** |
 |:--------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:----------:|
