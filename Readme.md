@@ -57,4 +57,4 @@ Thank you for your interest in contributing! Follow these steps to get started:
 
 ### 📢 𝑵𝒆𝒆𝒅 𝑯𝒆𝒍𝒑?
 
-If you have any questions, feel free to open an issue or start a discussion. We're happy to help! 😊
+If you have any questions, feel free to open an issue or start a discussion. I'm happy to help! 😊
