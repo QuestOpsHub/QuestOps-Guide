@@ -107,7 +107,7 @@ Thank you for your interest in contributing! Follow these steps to get started:
 4. **Make Changes**: Implement your changes or fixes while following project guidelines.
 5. **Submit a Pull Request**: Push your changes and open a **Pull Request (PR)** with a clear description.
 
-### ✅ 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏 𝑮𝒖𝒊𝒅𝒆𝒍𝒊𝒏𝒆𝒔
+### ✨ 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏 𝑮𝒖𝒊𝒅𝒆𝒍𝒊𝒏𝒆𝒔
 
 - Ensure your code follows the project's **style and best practices**.
 - Write **clear commit messages** that describe your changes.
