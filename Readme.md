@@ -4,7 +4,7 @@ This repository serves as the central hub for navigating and utilizing the **Que
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-## 🌟 𝑴𝒂𝒔𝒕𝒆𝒓𝒆𝒅 𝑫𝒆𝒗𝑶𝒑𝒔 𝑺𝒕𝒂𝒄𝒌
+## 🌟 𝑫𝒆𝒗𝑶𝒑𝒔 𝑺𝒕𝒂𝒄𝒌
 
 <p align="left">
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
@@ -54,7 +54,7 @@ This repository serves as the central hub for navigating and utilizing the **Que
     </a>
 </p>
 
-## ⚙️ 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝑺𝒕𝒂𝒕𝒖𝒔 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘
+## ⚙️ 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘
 
 > **Legend:** ✅ Active | 🚧 In Progress | 🔍 Planning
 
