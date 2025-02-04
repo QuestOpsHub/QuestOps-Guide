@@ -2,7 +2,7 @@
 
 This repository serves as the central hub for navigating and utilizing the **QuestOpsHub** ecosystem. Here, you'll find essential documentation, best practices, and step-by-step guides to explore, contribute to, and integrate with various QuestOpsHub Projects & Repositories.
 
-# 🌟 𝑴𝒂𝒔𝒕𝒆𝒓𝒆𝒅 𝑫𝒆𝒗𝑶𝒑𝒔 𝑺𝒕𝒂𝒄𝒌
+## 🌟 𝑴𝒂𝒔𝒕𝒆𝒓𝒆𝒅 𝑫𝒆𝒗𝑶𝒑𝒔 𝑺𝒕𝒂𝒄𝒌
 
 <p align="left">
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
@@ -52,7 +52,7 @@ This repository serves as the central hub for navigating and utilizing the **Que
     </a>
 </p>
 
-# ⚙️ 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝑺𝒕𝒂𝒕𝒖𝒔 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘
+## ⚙️ 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝑺𝒕𝒂𝒕𝒖𝒔 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘
 
 > **Legend:** ✅ Active | 🚧 In Progress | 🔍 Planning
 
@@ -63,7 +63,7 @@ This repository serves as the central hub for navigating and utilizing the **Que
 |   [azure-webapp-ci-cd-deployment](https://github.com/QuestOpsHub/azure-webapp-ci-cd-deployment)   | This repository contains the CI/CD pipeline and deployment automation for Azure Web Apps, including integration with Azure Key Vault, Azure Container Registry (ACR), and Managed Identity. It supports deploying ASP.NET Core, Java, Python, and other applications to Azure Web Apps securely and efficiently. |                                                                                             |      🚧       |
 |                                                                                                   |                                                                                                                                                                                                                                                                                                                  |                                                                                             |               |
 
-# 🌐 𝑨𝒛𝒖𝒓𝒆 𝑻𝒆𝒓𝒓𝒂𝒇𝒐𝒓𝒎 𝑴𝒐𝒅𝒖𝒍𝒆𝒔
+## 🌐 𝑨𝒛𝒖𝒓𝒆 𝑻𝒆𝒓𝒓𝒂𝒇𝒐𝒓𝒎 𝑴𝒐𝒅𝒖𝒍𝒆𝒔
 
 > **Legend:** ✅ Active | 🚧 In Progress | 🔍 Planning
 
@@ -83,7 +83,7 @@ This repository serves as the central hub for navigating and utilizing the **Que
 |                                  |                                                                                                                     |                                                                                                   |            |
 
 ---
-# 🤝 𝑯𝒐𝒘 𝒕𝒐 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒆
+## 🤝 𝑯𝒐𝒘 𝒕𝒐 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒆
 
 Thank you for your interest in contributing! Follow these steps to get started:
 
