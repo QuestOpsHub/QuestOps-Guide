@@ -32,9 +32,15 @@
     <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
     </a>
-	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-	    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Bash" width="40" height="40"/>
-	</a>
+    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40"/>
+    </a>
+    <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket" width="40" height="40"/>
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Bash" width="40" height="40"/>
+    </a>
     <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/>
     </a>
@@ -49,6 +55,12 @@
     </a>
     <a href="https://prometheus.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Prometheus" width="40" height="40"/>
+    </a>
+    <a href="https://www.dynatrace.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg" alt="Dynatrace" width="40" height="40"/>
+    </a>
+    <a href="https://www.datadoghq.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="Datadog" width="40" height="40"/>
     </a>
 </p>
 
