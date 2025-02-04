@@ -1,6 +1,7 @@
 # Hey Everyone 👋, I'm Veera Bhadra Mangunuru
 
-https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 This repository serves as the central hub for navigating and utilizing the **QuestOpsHub** ecosystem. Here, you'll find essential documentation, best practices, and step-by-step guides to explore, contribute to, and integrate with various QuestOpsHub Projects & Repositories.
 
