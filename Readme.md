@@ -1,3 +1,6 @@
+# Hey Everyone 👋, I'm Veera Bhadra Mangunuru
+
+---
 ## 🌟 𝑫𝒆𝒗𝑶𝒑𝒔 𝑺𝒕𝒂𝒄𝒌
 
 <table style="width: 100%; table-layout: auto; background: transparent;">
@@ -191,6 +194,7 @@
   </tr>
 </table>
 
+---
 ## ⚙️ 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘
 
 > **Legend:** ✅ Active | 🚧 In Progress | 🔍 Planning
@@ -202,6 +206,7 @@
 |   [azure-webapp-ci-cd-deployment](https://github.com/QuestOpsHub/azure-webapp-ci-cd-deployment)   | This repository contains the CI/CD pipeline and deployment automation for Azure Web Apps, including integration with Azure Key Vault, Azure Container Registry (ACR), and Managed Identity. It supports deploying ASP.NET Core, Java, Python, and other applications to Azure Web Apps securely and efficiently. |                                                                                             |      🚧       |
 |                                                                                                   |                                                                                                                                                                                                                                                                                                                  |                                                                                             |               |
 
+---
 ## 🌐 𝑨𝒛𝒖𝒓𝒆 𝑻𝒆𝒓𝒓𝒂𝒇𝒐𝒓𝒎 𝑴𝒐𝒅𝒖𝒍𝒆𝒔
 
 > **Legend:** ✅ Active | 🚧 In Progress | 🔍 Planning
