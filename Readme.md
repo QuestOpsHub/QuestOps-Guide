@@ -2,7 +2,7 @@
 
 ## 📚 Table of Contents
 
-- [🌟 DevOps Stack](#-devops-stack)
+- 🌟 𝑫𝒆𝒗𝑶𝒑𝒔 𝑺𝒕𝒂𝒄𝒌
 - [⚙️ Projects Overview](#-projects-overview)
 - [🌐 Azure Terraform Modules](#-azure-terraform-modules)
 - [🤝 How to Contribute](#-how-to-contribute)
