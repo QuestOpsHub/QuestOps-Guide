@@ -1,5 +1,12 @@
 # Hey Everyone 👋, I'm Veera Bhadra Mangunuru
 
+## 📚 Table of Contents
+
+- [🌟 DevOps Stack](#-devops-stack)
+- [⚙️ Projects Overview](#-projects-overview)
+- [🌐 Azure Terraform Modules](#-azure-terraform-modules)
+- [🤝 How to Contribute](#-how-to-contribute)
+
 ---
 ## 🌟 𝑫𝒆𝒗𝑶𝒑𝒔 𝑺𝒕𝒂𝒄𝒌
 
