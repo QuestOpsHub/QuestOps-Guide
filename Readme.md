@@ -220,7 +220,7 @@
 
 |           **Category**           |                                                   **Repository**                                                    |                                          **Description**                                          | **Status** |
 |:--------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:----------:|
-|            *Compute*             |           [terraform-azurerm-linux-webapp](https://github.com/QuestOpsHub/terraform-azurerm-linux-webapp)           |   Terraform module to create a Linux Web App along with a deployment slot and management lock.    |     ✅     |
+|            *Compute*             |           [terraform-azurerm-linux-webapp](https://github.com/QuestOpsHub/terraform-azurerm-linux-webapp)           |   Terraform module to create a Linux Web App along with a deployment slot and management lock.    |     🚧     |
 | *Identity and Access Management* |        [terraform-azurerm-role-assignment](https://github.com/QuestOpsHub/terraform-azurerm-role-assignment)        |         Terraform module to assign a specified Role to a given Principal (User or Group).         |     ✅     |
 | *Identity and Access Management* | [terraform-azurerm-user-assigned-identity](https://github.com/QuestOpsHub/terraform-azurerm-user-assigned-identity) |                   Terraform module to create a User Assigned Managed Identity.                    |     ✅     |
 |           *Containers*           |     [terraform-azurerm-kubernetes-cluster](https://github.com/QuestOpsHub/terraform-azurerm-kubernetes-cluster)     |                     Terraform module to create a Managed Kubernetes Cluster.                      |     ✅     |
@@ -231,7 +231,7 @@
 |            *Security*            |              [terraform-azurerm-key-vault](https://github.com/QuestOpsHub/terraform-azurerm-key-vault)              |                              Terraform module to create a Key Vault.                              |     ✅     |
 |   *Management and Governance*    |         [terraform-azurerm-resource-group](https://github.com/QuestOpsHub/terraform-azurerm-resource-group)         |                        Terraform module to create an Azure Resource Group.                        |     ✅     |
 |         *Miscellaneous*          |          [terraform-azurerm-random-string](https://github.com/QuestOpsHub/terraform-azurerm-random-string)          | Terraform module to generate secure random alphanumeric strings with optional special characters. |     ✅     |
-|                                  |                                                                                                                     |                                                                                                   |            |
+|          *Storage*               |           [terraform-azurerm-storage-account](https://github.com/QuestOpsHub/terraform-azurerm-storage-account)                                                                                                          |                 Terraform module to create an Azure Storage Account.                                                                                  |  🚧          |
 
 ---
 ## 🤝 𝑯𝒐𝒘 𝒕𝒐 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒆
